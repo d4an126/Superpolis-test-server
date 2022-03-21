@@ -6,7 +6,7 @@ description "https://discord.gg/mTNF7mdA8E"
 version "2.0"
 
 files {
-    'index.html',
+    'f1 loadingscreen',
     'audio/*.mp3',
     'css/styles.css',
     'img/*',
@@ -14,4 +14,4 @@ files {
     'js/main.js',
 }
 
-loadscreen 'index.html'
+loadscreen 'f1 loadingscreen'
